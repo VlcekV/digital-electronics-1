@@ -1,4 +1,4 @@
-# Lab 2: INSERT_YOUR_FIRSTNAME INSERT_YOUR_LASTNAMEE
+# Lab 2: Viktor Vlček
 
 ### 2-bit comparator
 
@@ -48,3 +48,5 @@
 2. Link to your public EDA Playground example:
 
    [https://www.edaplayground.com/...](https://www.edaplayground.com/...)
+
+[def]: Greater
